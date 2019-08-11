@@ -1,2 +1,2 @@
-www.youtube.com###related
-www.youtube.com###comments
+youtube.com###related
+youtube.com###comments

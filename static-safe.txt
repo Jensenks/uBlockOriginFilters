@@ -1,6 +1,6 @@
-www.bloomberg.com###paywall-banner
-www.wired.com##.social-share-sidebar-component
-www.wired.com##.most-popular-side-bar-component
-www.wired.com###logo-bar
-www.wired.com##.advertisement__leaderboard
-www.wired.com##.cnevideo
+bloomberg.com###paywall-banner
+wired.com##.social-share-sidebar-component
+wired.com##.most-popular-side-bar-component
+wired.com###logo-bar
+wired.com##.advertisement__leaderboard
+wired.com##.cnevideo
