@@ -1,0 +1,1 @@
+# Personal filters for uBlock Origin
