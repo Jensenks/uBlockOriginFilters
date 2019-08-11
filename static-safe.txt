@@ -4,3 +4,6 @@ wired.com##.most-popular-side-bar-component
 wired.com###logo-bar
 wired.com##.advertisement__leaderboard
 wired.com##.cnevideo
+dmi.com##.hidden-print.add-top
+dmi.com##.hidden-print.add-top
+theverge.com###privacy-consent
