@@ -1,2 +1,4 @@
 ||cookieinformation.com^
 ||cookiebot.com^
+||bellmetric.net^
+||telemetric.dk^
