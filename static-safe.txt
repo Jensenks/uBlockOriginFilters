@@ -7,3 +7,9 @@ wired.com##.cnevideo
 dmi.com##.hidden-print.add-top
 dmi.com##.hidden-print.add-top
 theverge.com###privacy-consent
+economist.com##.exit-pop
+economist.com##.ribbon__header
+economist.com##.ribbon__body
+holdsport.dk##.shopbox.box_panel
+holdsport.dk##.sponsors
+holdsport.dk##.ad
