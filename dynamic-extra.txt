@@ -1,23 +1,28 @@
-||userback.io^
-||actionbutton.co^
-||addtoany.com^
-||addwish.com^
-||bazaarvoice.com^
-||convertflow.com^
-||coveo.com^
-||dixa.io^
-||drift.com^
-||driftt.com^
-||e-pages.dk^
-||gravatar.com^
-||iteratehq.com^
-||linkedin.com^
-||facebook.net^
-||livefyre.com^
-||netdania.com^
-||regily.com^
-||scroll.com^
-||theplatform.com^
-||twitter.com^
-||facebook.com^
-||fbcdn.net^
+* userback.io * block
+* actionbutton.co * block
+* addtoany.com * block
+* addwish.com * block
+* bazaarvoice.com * block
+* convertflow.com * block
+* coveo.com * block
+* dixa.io * block
+* drift.com * block
+* driftt.com * block
+* e-pages.dk * block
+* gravatar.com * block
+* iteratehq.com * block
+* linkedin.com * block
+linkedin.com linkedin.com * noop
+* livefyre.com * block
+* netdania.com * block
+* regily.com * block
+* scroll.com * block
+* theplatform.com * block
+* twitter.com * block
+twitter.com twitter.com * noop
+* facebook.net * block
+* facebook.com * block
+* fbcdn.net * block
+facebook.com facebook.com * noop
+facebook.com facebook.net * noop
+facebook.com fbcdn.net * noop

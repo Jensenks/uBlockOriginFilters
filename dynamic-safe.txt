@@ -1,49 +1,50 @@
-||cookieinformation.com^
-||cookiebot.com^
-||bellmetric.net^
-||telemetric.dk^
-||adnami.io^
-||bibblio.org^
-||consensu.org^
-||consent.dk^
-||cookiebot.com^
-||cookieinformation.com^
-||cookielaw.org^
-||cxense.com^
-||doipanel.dk^
-||dynamicyield.com^
-||esbmail.com^
-||evidon.com^
-||flixcar.com^
-||flixfacts.com^
-||footprint.net^
-||gigya.com^
-||goqubit.com^
-||jubiitag.dk^
-||marketo.net^
-||optimizely.com^
-||optmnstr.com^
-||optnmstr.com^
-||piano.io^
-||pxl.host^
-||qubit.com^
-||raptorsmartadvisor.com^
-||richrelevance.com^
-||scorecardresearch.com^
-||secia.dk^
-||segment.com^
-||sharedcount.com^
-||spot.im^
-||sprinklecontent.com^
-||tinypass.com^
-||tiqcdn.com^
-||trustarc.com^
-||truste.com^
-||turner.com^
-||uberflip.com^
-||vee24.com^
-||viabill.com^
-||vilynx.com^
-||webcollage.net^
-||wistia.net^
-||yottaa.net^
+* cookieinformation.com * block
+* cookiebot.com * block
+* bellmetric.net * block
+* telemetric.dk * block
+* adnami.io * block
+* bibblio.org * block
+* consensu.org * block
+* consent.dk * block
+* cookiebot.com * block
+* cookieinformation.com * block
+* cookielaw.org * block
+* cxense.com * block
+* doipanel.dk * block
+* esbmail.com * block
+* evidon.com * block
+* flixcar.com * block
+* flixfacts.com * block
+* footprint.net * block
+* gigya.com * block
+* goqubit.com * block
+* jubiitag.dk * block
+* marketo.net * block
+* optimizely.com * block
+* optmnstr.com * block
+* optnmstr.com * block
+* piano.io * block
+* pxl.host * block
+* qubit.com * block
+* raptorsmartadvisor.com * block
+* richrelevance.com * block
+* scorecardresearch.com * block
+* secia.dk * block
+* segment.com * block
+* sharedcount.com * block
+* spot.im * block
+* sprinklecontent.com * block
+* tinypass.com * block
+* tiqcdn.com * block
+* trustarc.com * block
+* truste.com * block
+* turner.com * block
+* uberflip.com * block
+* vee24.com * block
+* viabill.com * block
+* vilynx.com * block
+* webcollage.net * block
+* wistia.net * block
+* yottaa.net * block
+* flightlogger.net * allow
+* flightlogger.test * allow
