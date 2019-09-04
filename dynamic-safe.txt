@@ -46,5 +46,4 @@
 * webcollage.net * block
 * wistia.net * block
 * yottaa.net * block
-* flightlogger.net * allow
-* flightlogger.test * allow
+* sentry-cdn.com * allow

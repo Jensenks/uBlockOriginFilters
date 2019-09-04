@@ -26,3 +26,4 @@ twitter.com twitter.com * noop
 facebook.com facebook.com * noop
 facebook.com facebook.net * noop
 facebook.com fbcdn.net * noop
+* intercom.io * block
